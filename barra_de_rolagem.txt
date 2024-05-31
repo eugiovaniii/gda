@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #conteudo {
+      height: 300px; /* Defina a altura máxima desejada */
+      overflow: auto; /* Adiciona a barra de rolagem quando necessário */
+    }
+  </style>
+</head>
+<body>
+  <div id="conteudo">
+    <!-- Conteúdo da página -->
+    <!-- Se o conteúdo ultrapassar a altura máxima, a barra de rolagem aparecerá -->
+  </div>
+</body>
+</html>
